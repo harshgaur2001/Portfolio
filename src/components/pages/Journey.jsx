@@ -2,6 +2,12 @@ import { FaBookOpen, FaBriefcase } from "react-icons/fa";
 
 const eduSteps = [
   {
+    year: "2025",
+    title: "Complete web development course",
+    description:
+      "Completed a comprehensive Web Development course on Udemy, covering front-end and back-end fundamentals. Strengthened my skills in React, Node.js, Express, MongoDB, Next.js, and modern development practices.",
+  },
+  {
     year: "2022 - 2025",
     title: "Master of Computer Applications",
     description:
