@@ -125,7 +125,7 @@ export default function Home() {
           </Link>
           <Link
             download
-            to="/CV-Harsh-Gaur.pdf"
+            to="/CV_Harsh_Gaur.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-[#5b7553] text-[#5b7553] px-10 py-3 rounded-full hover:bg-[#5b7553] text-white hover:rounded-3xl transition-all duration-300 font-semibold"
