@@ -4,95 +4,95 @@ export default function Home() {
   const techStack = [
     {
       name: "HTML5",
-      icon: "/src/assets/logos/html5.svg",
+      icon: "./logos/html5.svg",
     },
     {
       name: "CSS3",
-      icon: "/src/assets/logos/css3.svg",
+      icon: "./logos/css3.svg",
     },
     {
       name: "JavaScript",
-      icon: "/src/assets/logos/js.png",
+      icon: "./logos/js.png",
     },
     {
       name: "WordPress",
-      icon: "/src/assets/logos/wordpress.png",
+      icon: "./logos/wordpress.png",
     },
     {
       name: "Elementor",
-      icon: "/src/assets/logos/elementor.webp",
+      icon: "./logos/elementor.webp",
     },
     {
       name: "jQuery",
-      icon: "/src/assets/logos/jQuery.png",
+      icon: "./logos/jQuery.png",
     },
     {
       name: "SQL",
-      icon: "/src/assets/logos/sql.svg",
+      icon: "./logos/sql.svg",
     },
     {
       name: "PHP",
-      icon: "/src/assets/logos/php.svg",
+      icon: "./logos/php.svg",
     },
     {
       name: "Python",
-      icon: "/src/assets/logos/python.png",
+      icon: "./logos/python.png",
     },
     {
       name: "Tailwind CSS",
-      icon: "/src/assets/logos/tailwind.png",
+      icon: "./logos/tailwind.png",
     },
     {
       name: "React.js",
-      icon: "/src/assets/logos/react.svg",
+      icon: "./logos/react.svg",
     },
     {
       name: "Node.js",
-      icon: "/src/assets/logos/nodejs.svg",
+      icon: "./logos/nodejs.svg",
     },
     {
       name: "Express.js",
-      icon: "/src/assets/logos/expressjs.png",
+      icon: "./logos/expressjs.png",
     },
     {
       name: "REST API",
-      icon: "/src/assets/logos/api.png",
+      icon: "./logos/api.png",
     },
     {
       name: "Postman",
-      icon: "/src/assets/logos/postman.webp",
+      icon: "./logos/postman.webp",
     },
     {
       name: "MongoDB",
-      icon: "/src/assets/logos/mongodb.svg",
+      icon: "./logos/mongodb.svg",
     },
     {
       name: "Mongoose",
-      icon: "/src/assets/logos/mongoose.webp",
+      icon: "./logos/mongoose.webp",
     },
     {
       name: "Redux Toolkit",
-      icon: "/src/assets/logos/redux-toolkit.svg",
+      icon: "./logos/redux-toolkit.svg",
     },
     {
       name: "Git",
-      icon: "/src/assets/logos/git.png",
+      icon: "./logos/git.png",
     },
     {
       name: "GitHub",
-      icon: "/src/assets/logos/github.webp",
+      icon: "./logos/github.webp",
     },
     {
       name: "Next.js",
-      icon: "/src/assets/logos/nextjs.svg",
+      icon: "./logos/nextjs.svg",
     },
     {
       name: "Vercel",
-      icon: "/src/assets/logos/Vercel.png",
+      icon: "./logos/Vercel.png",
     },
     {
       name: "Render",
-      icon: "/src/assets/logos/Render.png",
+      icon: "./logos/Render.png",
     },
   ];
 
