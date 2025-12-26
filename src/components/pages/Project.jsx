@@ -58,23 +58,6 @@ const wp_projects = [
 ];
 const projects = [
   {
-    id: 6,
-    title: "Real Time Currency Converter in React",
-    description:
-      "Real time currency converter app developed with React framework.",
-    techStack: ["React", "Tailwind", "Fetch", "Vercel"],
-    github: "https://github.com/harshgaur2001/real-time-currency-converter",
-    liveDemo: "https://real-time-currency-converter-by-harsh-gaur.vercel.app/",
-  },
-  {
-    id: 7,
-    title: "Blog Manager in React",
-    description: "Created blog manager with Appwrite and React framework.",
-    techStack: ["React", "Tailwind", "Appwrite", "Redux", "Router", "Vercel"],
-    github: "https://github.com/harshgaur2001/react-appwrite-blog-manager",
-    liveDemo: "https://react-appwrite-blog-manager.vercel.app/",
-  },
-  {
     id: 8,
     title: "User Management in NextJs",
     description:
@@ -132,6 +115,23 @@ const projects = [
     github:
       "https://github.com/harshgaur2001/MERN-Address-Book-App-React-Redux-Toolkit-JWT-Auth",
     liveDemo: "https://mern-address-book-app-react-redux-t-ashy.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "Real Time Currency Converter in React",
+    description:
+      "Real time currency converter app developed with React framework.",
+    techStack: ["React", "Tailwind", "Fetch", "Vercel"],
+    github: "https://github.com/harshgaur2001/real-time-currency-converter",
+    liveDemo: "https://real-time-currency-converter-by-harsh-gaur.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Blog Manager in React",
+    description: "Created blog manager with Appwrite and React framework.",
+    techStack: ["React", "Tailwind", "Appwrite", "Redux", "Router", "Vercel"],
+    github: "https://github.com/harshgaur2001/react-appwrite-blog-manager",
+    liveDemo: "https://react-appwrite-blog-manager.vercel.app/",
   },
 ];
 
