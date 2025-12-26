@@ -117,7 +117,7 @@ const projects = [
     liveDemo: "https://mern-address-book-app-react-redux-t-ashy.vercel.app/",
   },
   {
-    id: 6,
+    id: 11,
     title: "Real Time Currency Converter in React",
     description:
       "Real time currency converter app developed with React framework.",
@@ -126,7 +126,7 @@ const projects = [
     liveDemo: "https://real-time-currency-converter-by-harsh-gaur.vercel.app/",
   },
   {
-    id: 7,
+    id: 12,
     title: "Blog Manager in React",
     description: "Created blog manager with Appwrite and React framework.",
     techStack: ["React", "Tailwind", "Appwrite", "Redux", "Router", "Vercel"],
